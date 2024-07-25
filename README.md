@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Cristian Ubalde Jancco</h1>
 <h3 align="center">Soy un BackEnd apasionado</h3>
 
-- 💬 Ask me about **C#, html, php , css, javascript**
+- 💬 Preguntame sobre **C#, html, php , css, javascript**
 
-- 📫 How to reach me **ubaldejancco2000@gmail.com**
+- 📫 Cómo llegar a mí **ubaldejancco2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
